@@ -3,7 +3,7 @@
 ## 📌 Disciplina
 Banco de Dados II  
 Universidade do Vale do Itajaí – UNIVALI  
-Professor: Maurício Pasetto de Freitas, MSc.
+Professor: Maurício Pasetto de Freitas
 
 ## 🧠 Objetivo
 Este projeto tem como objetivo simular transações concorrentes acessando recursos compartilhados, gerando situações de **deadlock**, e utilizando a técnica de **timestamp (wait-die ou wound-wait)** para resolução. A execução é feita com uso de **threads em Python**.
