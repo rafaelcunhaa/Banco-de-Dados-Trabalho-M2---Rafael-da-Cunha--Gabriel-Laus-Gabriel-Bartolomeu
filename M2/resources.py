@@ -5,4 +5,4 @@ class Resource:
         self.item_id = item_id
         self.lock = threading.Lock()
         self.locked_by = None
-        self.waiting_queue = []
+        self.waiting_queue = []  # usado futuramente se precisar
