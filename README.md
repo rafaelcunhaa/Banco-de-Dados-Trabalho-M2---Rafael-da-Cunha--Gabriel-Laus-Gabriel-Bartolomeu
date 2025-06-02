@@ -1,5 +1,3 @@
-# Banco-de-Dados-Trabalho-M2---Rafael-da-Cunha-e-Gabriel-Laus-
-
 # Simulação de Transações Concorrentes com Detecção e Resolução de Deadlocks
 
 ## 📌 Disciplina
