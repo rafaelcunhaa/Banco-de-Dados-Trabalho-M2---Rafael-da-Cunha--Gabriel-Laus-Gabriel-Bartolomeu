@@ -10,7 +10,6 @@ class Transacao(threading.Thread):
         self.timestamp = timestamp  # Marca temporal (idade da transação)
         self.resource_x = resource_x
         self.resource_y = resource_y
-        self.manager = manager  # Não usado neste código, mas pode servir para controle futuro
         self.aborted = False  # Marca se a transação foi abortada
 
     def run(self):
